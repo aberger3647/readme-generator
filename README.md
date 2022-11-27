@@ -19,7 +19,7 @@
   
 ## Usage
   Answer the questions when prompted.
-  [Video Walkthrough](https://watch.screencastify.com/v/6NcHz2jwCTyD6gumCHxa)
+  [Video Walkthrough](https://drive.google.com/file/d/1d1rFLTcjdidNIY-2xEzCzulQ93rAXr1e/view?usp=sharing)
  
  ## Contributing
   N/a
