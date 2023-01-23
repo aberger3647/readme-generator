@@ -9,6 +9,7 @@
   ## Table of Contents
   - [Installation](#installation)
   - [Usage](#usage)
+  - [Screenshot](#screenshot)
   - [Contributing](#contributing)
   - [Tests](#test)
   - [License](#license)
@@ -21,7 +22,10 @@
   Answer the questions when prompted.
   [Video Walkthrough](https://drive.google.com/file/d/1d1rFLTcjdidNIY-2xEzCzulQ93rAXr1e/view?usp=sharing)
  
- ## Contributing
+## Screenshot
+<img src="screenshot.png" width="600">
+
+## Contributing
   N/a
 
 ## Tests
